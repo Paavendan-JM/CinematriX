@@ -1,6 +1,6 @@
 # 🎬 CINEMATRIX
 
-![Movie Blasters Banner](./banner2.jpg)
+![Movie Blasters Banner](./banner2.JPG)
 
 **Cinematrix** is a fast, responsive Vue 3 app for discovering trending, upcoming, and searched movies. Powered by **TMDB** and **OMDB** APIs, it delivers clean UI, trailer links, and detailed movie info in a comic-style theme.
 
