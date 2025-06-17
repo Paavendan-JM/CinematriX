@@ -6,6 +6,8 @@
 
 ---
 
+Live Link: https://cinematri-x.netlify.app/
+
 ## ⚡ Features
 
 - 🔥 Trending & Upcoming Movies (TMDB)
@@ -27,7 +29,7 @@
 ## 🚀 Setup
 
 ```bash
-git clone https://github.com/your-username/cinematrix.git
+git clone https://github.com/Paavendan-JM/CinematriX.git
 cd cinematrix
 npm install
 ```
