@@ -3,7 +3,7 @@
 body {
   margin: 0;
   font-family: 'Bebas Neue', sans-serif;
-  background-image: url('./assets/bg2.jpg') no-repeat center center fixed;
+  background-image: url('./assets/bg2.jpg');
   background-size: cover;
   color: white;
 }
