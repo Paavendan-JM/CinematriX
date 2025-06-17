@@ -4,9 +4,13 @@ body {
   margin: 0;
   font-family: 'Bebas Neue', sans-serif;
   background-image: url('./assets/bg2.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
   background-size: cover;
   color: white;
 }
+
 
 /* Header */
 .header {  
